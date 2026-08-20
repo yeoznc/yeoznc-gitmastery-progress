@@ -149,5 +149,14 @@
       "You did not pull Alice's changes to your own main branch!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787199082.475325,
+    "completed_at": 1787199086.444804,
+    "comments": [
+      "Remote 'bob-upstream' is missing! Remember to add it and point it to https://github.com/git-mastery/gm-shapes-bob"
+    ],
+    "status": "Incomplete"
   }
 ]
