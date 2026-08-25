@@ -329,5 +329,14 @@
       "You have successfully undone the merge of branch 'others'."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1787665548.824891,
+    "completed_at": 1787665552.926433,
+    "comments": [
+      "Ref 'supporting' did not resolve to an object"
+    ],
+    "status": "Error"
   }
 ]
